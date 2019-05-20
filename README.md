@@ -4,3 +4,8 @@ Learn more about Role trust and Assume Role here. https://docs.aws.amazon.com/cl
 
 role_arn_to_session function is directly from this gist https://gist.github.com/gene1wood/938ff578fbe57cf894a105b4107702de
 
+Run this program using the below commands.
+
+pip install -r requirements.txt
+python glue_role_test.py
+
